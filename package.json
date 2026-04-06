@@ -1,0 +1,1 @@
+{\n  "name": "academic-portfolio",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "astro dev",\n    "build": "astro build",\n    "preview": "astro preview"\n  },\n  "devDependencies": {\n    "astro": "^2.0.0",\n    "tailwindcss": "^3.0.0",\n    "postcss": "^8.0.0",\n    "autoprefixer": "^10.0.0"\n  }\n}
